@@ -1,4 +1,4 @@
-# dragon-lee
+# Dragon Lee Display
 An open-source display font family inspired by the classic poster from 'Enter the Dragon', created in three styles: Solid, Outline and Shadow.
 
 ![Solid](https://s3-us-west-2.amazonaws.com/wip-bucket/github/golden-dragon/gdsolid.png)
